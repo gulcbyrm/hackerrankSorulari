@@ -12,6 +12,6 @@ package javaapplication27;
 public class NewClass {
     mn klmşlk
             şlkmjn
-                    lkmnj
+                    int b;
                     
 }
