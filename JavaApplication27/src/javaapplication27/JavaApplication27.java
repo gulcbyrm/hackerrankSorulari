@@ -16,7 +16,11 @@ public class JavaApplication27 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        nbvbnvbn
         int nnn;
+        System.out.println("javaapplication27.JavaApplication27.main()");
+        öönö
+                ömöm
     }
     
 }
